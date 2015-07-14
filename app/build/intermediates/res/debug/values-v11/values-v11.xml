@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/MJK%20Drive/Mobile%20Dev%20Repository/Android/Accelerometer%20Reading/app/src/main/res/values-v11/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light"/>
+</resources>

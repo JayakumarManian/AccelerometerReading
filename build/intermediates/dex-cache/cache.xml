@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/MJK Drive/Mobile Dev Repository/Android/Accelerometer Reading/app/libs/achartengine-1.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2bb0af9f390c0edd4d7d95f613f38da3abe0144">
+        <dex dex="/MJK Drive/Mobile Dev Repository/Android/Accelerometer Reading/app/build/intermediates/pre-dexed/debug/achartengine-1.0.0-b9b5958c6c50934cecb8b7920ecdcdfb54a63ba9.jar" />
+    </item>
+    <item
+        jar="/Users/JayakumarManian/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/MJK Drive/Mobile Dev Repository/Android/Accelerometer Reading/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-61a152592c244254eb009a03cf7c8547a64466c4.jar" />
+    </item>
+
+</items>
